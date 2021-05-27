@@ -5,7 +5,7 @@
 
 ## Live Demo 
 
-### react-zoom-integration-v1.vercel.app
+### https://react-zoom-integration-v1.vercel.app
 
 
 ## Available Scripts
